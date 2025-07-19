@@ -1,5 +1,7 @@
 ﻿# HyperInvoicing
 
+## Group : In Turn, Sheep
+
 HyperInvoicing is an advanced invoicing platform that automates customer invoice management, streamlines payment tracking, and enhances accuracy through AI-assisted validation. The system is composed of a FastAPI backend and a modern React (Vite + shadcn-ui + Tailwind CSS) frontend, working together to provide a seamless user experience for generating, tracking, and managing invoices.
 
 ## Project Architecture & How It Works
